@@ -1,0 +1,9 @@
+{
+  "firebase": "archanapotnis",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

@@ -1,0 +1,72 @@
+/* app css stylesheet */
+
+.p1 , .p2, .p3{
+
+  position: relative;
+  height: 150px;
+  width: 150px;
+  background-color: #63798D ;
+  border-radius: 5px;
+  color: white!important;
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  padding: 35px;
+   font-size: 50px;
+   text-decoration: none;
+   background: url('../img/bgImage.jpg');
+   border: 3px outset black;
+   border-radius: 15px;
+   margin-bottom: 100px;
+   margin-top: 100px;
+   margin-right: 50px;
+   margin-left: 150px;
+
+}
+
+.page-container{
+  
+  background: url('../img/bgImage.jpg');
+  text-align: center;
+  padding: 100px;
+}
+
+.page-container p{
+  font-size: 80px;
+ 
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+a:link, a:visited{
+  color: white; 
+  text-decoration: none;
+}
+ 
+.page-header, .page-footer{
+  margin:0px;
+  background-color: yellow;
+  height: auto;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 80px;
+  text-align: center;
+  border: 5px solid black;
+  width: 100%;
+}
+
+.container{
+
+  width: 100%;
+  margin:5px;
+  background-color: yellow;
+  padding: 10px;
+  border: 5px solid black;
+
+}
+
+body{
+
+ min-height: 100%;
+ background-color: #8BB746
+}
